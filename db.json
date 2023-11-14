@@ -1,0 +1,1 @@
+{"_default": {"1": {"form_name": "Register user form", "user_name": "text", "user_email": "email", "password1": "text", "password2": "text"}, "2": {"form_name": "Add product form", "title": "text", "description": "text", "created": "date"}, "3": {"form_name": "Create order form", "user_name": "text", "user_email": "email", "user_phone": "phone", "created": "date"}}}
