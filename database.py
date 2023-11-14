@@ -3,7 +3,6 @@ from typing import List
 from tinydb import TinyDB
 from tinydb.table import Document
 
-
 db = TinyDB('db.json')
 
 

@@ -1,9 +1,7 @@
-from flask import Flask, request, jsonify
-
-from validaters import validate_field, determine_field_type
+from flask import Flask, jsonify, request
 
 from database import get_form_list
-
+from validaters import determine_field_type, validate_field
 
 app = Flask(__name__)
 
